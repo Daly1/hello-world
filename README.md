@@ -1,5 +1,8 @@
 # hello-world
 my freecode camp repos
+<
+Hi everyone.
+ =======
 hello world
 
 Im new to the coding life, I have had all different types of jobs and now since I have been unemployed I found
